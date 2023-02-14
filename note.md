@@ -1,6 +1,7 @@
 #Terms
 
 Repository (Repo)
+Branch
 
 #Command
 
@@ -11,3 +12,9 @@ Repository (Repo)
 - git commit
 - git log
 - git log --oneline
+- git checkout {branch-name}
+- git branch
+- git checkout -b {branch-name}
+- git branch -d {branch-name}
+
+
