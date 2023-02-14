@@ -26,5 +26,6 @@ Remote
 - git clone {repo url}
 - git fetch origin
 - git checkout -b {branch name} origin/{branch name}
+- git ignore
 
 
